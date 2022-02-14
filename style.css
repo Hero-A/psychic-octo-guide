@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+
+#button_mache, #number_of_objects, #status{
+    font-size: 18px;
+}
+
+.header{
+    width: 100%;
+    font-size: 24px;
+    margin: 0;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    line-height: 3;
+    color: honeydew;
+    width: 100%;
+    text-align:center;
+
+}
+
+canvas{
+    border-radius: 10px;
+    border: 6px ridge aqua;
+    margin-top: 130px;
+    box-shadow: 20px 20px 20px rgb(179, 179, 179);
+
+}
